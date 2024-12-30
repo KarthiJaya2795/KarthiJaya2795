@@ -1,4 +1,4 @@
-x<h1 align="center">Hi 👋, I'm Karthi Jayakumar</h1>
+<h1 align="center">Hi 👋, I'm Karthi Jayakumar</h1>
 <h3 align="center">"I am a passionate DevOps Engineer from India with a background in CAD design. I have previously worked in various corporate companies within the CAD design domain. Recently, I have upgraded my skills to include cloud and DevOps tools. Currently, I am working on multiple sample DevOps pipeline projects to further enhance my skills and am actively seeking better opportunities."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthijaya2795&label=Profile%20views&color=0e75b6&style=flat" alt="karthijaya2795" /> </p>
