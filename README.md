@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karthi Jayakumar</h1>
+x<h1 align="center">Hi 👋, I'm Karthi Jayakumar</h1>
 <h3 align="center">"I am a passionate DevOps Engineer from India with a background in CAD design. I have previously worked in various corporate companies within the CAD design domain. Recently, I have upgraded my skills to include cloud and DevOps tools. Currently, I am working on multiple sample DevOps pipeline projects to further enhance my skills and am actively seeking better opportunities."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthijaya2795&label=Profile%20views&color=0e75b6&style=flat" alt="karthijaya2795" /> </p>
@@ -87,3 +87,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthijaya2795&show_icons=true&locale=en" alt="karthijaya2795" /></p>
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=karthijaya2795&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My Github Contributions
+![Snake animation](https://github.com/karthijaya2795/karthijaya2795/blob/output/github-contribution-grid-snake.svg)
