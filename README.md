@@ -14,7 +14,23 @@
 - 📫 How to reach me **sarankarthi356@gmail.com**
 
 - ⚡ Fun fact **I think will make a risk move at anytime to achieve my target, I hope this is my funny things**
+
+
+
+
+
+
+
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
+
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/karthijaya2795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="karthijaya2795" height="30" width="40" /></a>
