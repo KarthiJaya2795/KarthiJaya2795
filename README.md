@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthijaya2795&label=Profile%20views&color=0e75b6&style=flat" alt="karthijaya2795" /> </p>
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
 - 🔭 I’m currently working on [Sample Devops projects ent-to-end](https://github.com/KarthiJaya2795/nodejs-App.git)
 
 - 🌱 I’m currently learning **General Devops & Cloud Devops**
@@ -14,45 +16,6 @@
 - 📫 How to reach me **sarankarthi356@gmail.com**
 
 - ⚡ Fun fact **I think will make a risk move at anytime to achieve my target, I hope this is my funny things**
-
-
-
-
-
-
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
